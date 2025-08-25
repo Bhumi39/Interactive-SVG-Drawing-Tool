@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.container {
+  border: 2px solid #444;
+  padding: 15px;
+  background-color: aqua;
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+svg {
+  border: 2px solid #555;
+  background-color: #abaf72;
+  width: 600px;
+  height: 400px;
+  cursor: crosshair;
+}
